@@ -1,5 +1,5 @@
 # Geração de Relatórios
-Modelo para geração de relatórios usando  jasper report.
+Modelo para geração de relatórios em java usando jasper reports.
 
 ### Pré-requisitos
 
