@@ -1,4 +1,4 @@
-# ModeloRelatorios
+# Geração de Relatórios
 Modelo para geração de relatórios usando  jasper report.
 
 ### Pré-requisitos
